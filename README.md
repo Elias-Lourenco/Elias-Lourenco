@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Elias-lourenco
 
-- 🌱 Estudando Python e JavaScript
-- 📫Contrate-me no email: eliasjuniorlourencodias@gmail.com
-- ⚡ Estudando cada vez mais para adquirir cada dia mais conhecimentos
+- 📘  <Python - JavaScript - C# - SQL>
+- ✉  Email: eliasjuniorlourencodias@gmail.com
+- ⚡ Estudando cada vez mais para adquirir cada dia mais conhecimentos!
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/eliasjuniorlourencodias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-Lourenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
