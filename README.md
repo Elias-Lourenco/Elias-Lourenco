@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Elias-lourenco
 
-- 📘  <Python - JavaScript - C# - SQL>
+- 📘  <Python - C# - SQL>
 - ✉  Email: eliasjuniorlourencodias@gmail.com
-- ⚡ Estudando cada vez mais para adquirir cada dia mais conhecimentos!
+- ⚡ Estudando!
 
 <div align="center">
   <a href="https://github.com/eliasjuniorlourencodias">
